@@ -6,3 +6,8 @@ statsmodels>=0.14.0
 sktime>=0.29.0
 pmdarima>=2.0.4
 scikit-learn>=1.4.0
+streamlit
+pandas
+numpy
+pulp
+plotly
